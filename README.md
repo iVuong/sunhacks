@@ -4,7 +4,7 @@ HOW TO LIKE A YOUTUBE VIDEO WITHOUT PRESSING THE LIKE BUTTON
 
 1. Install the extension on chrome through developer mode
 
-2.  Install requirements for hand recognition - "sudo pip install -r requirements.txt"
+2.  Install requirements for hand recognition - "sudo pip3 install -r requirements.txt"
 
 3. make personal google account json (google developer console -> credentials->create credentials)
 
